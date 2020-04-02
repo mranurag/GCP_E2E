@@ -1,0 +1,10 @@
+tensorflow==1.14.0
+sklearn
+gast==0.2.2
+pandas
+numpy
+gcsfs
+google-api-python-client
+oauth2client
+pandas_gbq
+tqdm
